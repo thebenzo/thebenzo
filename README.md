@@ -42,5 +42,5 @@
 
 ---
 
-## 🎵 Spotify status
-[![Spotify](https://novatorem-live.vercel.app/api/spotify)](https://open.spotify.com/user/wzqoocoaoq9svyw4u7u53fbpd?si=271511985a264511)
+## 🎵 Spotify
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/wzqoocoaoq9svyw4u7u53fbpd?si=ffd5c481cf314975)
