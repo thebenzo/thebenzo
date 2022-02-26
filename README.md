@@ -23,7 +23,7 @@
 <img src="https://i.imgur.com/NTdxsUv.gif" height= "30" width="1000"/>
 </p>
 
-<h2 align="center"> 🔭 Tools of Trade</h2>
+<p align="center"> 🔭 Tools of Trade</p>
 <p align="center">------------------------------------</p>
 
 <p align="center">
@@ -38,7 +38,7 @@
 
 <h1></h1>
 
-<h2  align="center">📫 Reach me on</h2>
+<p align="center">📫 Reach me on</p>
 <p align="center">------------------------------------</p>
 
 <p align="center">
