@@ -7,8 +7,6 @@
 
 ---
 
-<br/>
-
 ## Connect with me:
 [![website](./img/globe-light.svg)](#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](#gh-dark-mode-only)
@@ -34,8 +32,6 @@
 
 ---
 
-<br/>
-
 ## 💬 Talk to me about
 - Game Programming
 - Engine Programming
@@ -47,7 +43,5 @@
 - Pixel Art
 
 ---
-
-<br/>
 
 ## 🎵 Spotify status
