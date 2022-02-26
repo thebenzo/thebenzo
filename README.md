@@ -35,8 +35,6 @@
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> &nbsp;&nbsp;&nbsp;
 </p>
 
-<h1></h1>
-
 <h2 align="center">📫 Reach me on</h2>
 
 <p align="center">
