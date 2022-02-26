@@ -43,3 +43,4 @@
 ---
 
 ## 🎵 Spotify status
+[![Spotify](https://novatorem-live.vercel.app/api/spotify)](https://open.spotify.com/user/wzqoocoaoq9svyw4u7u53fbpd?si=271511985a264511)
