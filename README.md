@@ -14,10 +14,10 @@
 <p align="center">
 </p> &nbsp;
 
-<h2 align="center">
+<p align="center">
  <img src="https://badges.pufler.dev/years/amanesque"/> &nbsp;
  <img src="https://badges.pufler.dev/repos/amanesque"/> &nbsp;
-</h2>
+</p>
 
 <p align="center">
 <img src="https://i.imgur.com/NTdxsUv.gif" height= "30" width="1000"/>
