@@ -1,6 +1,12 @@
 # Hey there, I'm Aman 👋
 ### I'm a game developer. I completed my graduation in CS major from Delhi University. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and leverage them to solve problems.
 
+---
+
+<img align="center" width="1280px" src="https://neocha-content.oss-cn-hongkong.aliyuncs.com/wp-content/uploads/sites/2/2016/11/1041uuu-feature.gif?width=1920" style="padding-right:10px;" />
+
+---
+
 <br/>
 
 ## Connect with me:
@@ -30,7 +36,9 @@
 
 ---
 
-## 💬 Ask me about
+<br/>
+
+## 💬 Talk to me about
 - Game Programming
 - Engine Programming
 - AI
@@ -40,5 +48,10 @@
 - Listening to music
 - Pixel Art
 
+<br/>
+
+---
+
+<br/>
 
 ## 🎵 Spotify status
