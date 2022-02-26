@@ -8,8 +8,7 @@
 <!-- </p align="center">
 <img src="https://hacknplan.com/wp-content/uploads/2015/10/solo-developers.png" /> -->
 
-<h1 align="center">
-<img src="https://i.gifer.com/5ABL.gif" width="100">
+<h1 align="center"> Hey there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="25px">
 </h1>
 
 <p align="center">
