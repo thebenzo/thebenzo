@@ -23,7 +23,7 @@
 <img src="https://i.imgur.com/NTdxsUv.gif" height= "30" width="1000"/>
 </p>
 
-<p align="center"> 🔭 Tools of Trade</p>
+<h2 align="center"> 🔭 Tools of Trade</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> &nbsp;&nbsp;&nbsp;
@@ -37,7 +37,7 @@
 
 <h1></h1>
 
-<p align="center">📫 Reach me on</p>
+<h2 align="center">📫 Reach me on</h2>
 
 <p align="center">
 <a href="mailto: amanvrma5799@gmail.com">
