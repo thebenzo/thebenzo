@@ -1,7 +1,9 @@
 # Hey there, I'm Aman 👋
-## I'm a game developer
+### I'm a game developer. I completed my graduation in CS major from Delhi University. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and leverage them to solve problems.
 
-### Connect with me:
+<br/>
+
+## Connect with me:
 [![website](./img/globe-light.svg)](#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -14,7 +16,7 @@
 
 <br/>
 
-### Languages and Tools:
+## Languages and Tools:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 &nbsp;&nbsp;
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -34,7 +36,7 @@
 - AI
 
 ## 📅 Hobbies
-- Play video games
+- Playing video games
 - Listening to music
 - Pixel Art
 
