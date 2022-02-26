@@ -24,7 +24,6 @@
 </p>
 
 <p align="center"> 🔭 Tools of Trade</p>
-<p align="center">------------------------------------</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> &nbsp;&nbsp;&nbsp;
@@ -39,7 +38,6 @@
 <h1></h1>
 
 <p align="center">📫 Reach me on</p>
-<p align="center">------------------------------------</p>
 
 <p align="center">
 <a href="mailto: amanvrma5799@gmail.com">
