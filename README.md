@@ -3,9 +3,9 @@
 
 ---
 
-<img align="center" width="1280px" src="https://neocha-content.oss-cn-hongkong.aliyuncs.com/wp-content/uploads/sites/2/2016/11/1041uuu-feature.gif?width=1920" style="padding-right:10px;" />
+<!---<img align="center" width="1280px" src="https://neocha-content.oss-cn-hongkong.aliyuncs.com/wp-content/uploads/sites/2/2016/11/1041uuu-feature.gif?width=1920" style="padding-right:10px;" />
 
----
+--- --->
 
 ## Connect with me:
 [![website](./img/globe-light.svg)](https://amanesque.github.io/#gh-light-mode-only)
