@@ -1,4 +1,4 @@
-# Hey there, I'm Aman 👋
+### Hi there, I'm Aman 👋
 ### I'm a game developer. I completed my graduation in CS major from Delhi University. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and leverage them to solve problems.
 
 ---
