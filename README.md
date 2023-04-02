@@ -24,13 +24,5 @@
 ---
 
 ## 💬 Talk to me about
-- Game Programming
-- Engine Programming
-- AI
-
-## 📅 Hobbies
-- Playing video games
-- Listening to music
-- Pixel Art
-
----
+- Programming
+- Game Engines
