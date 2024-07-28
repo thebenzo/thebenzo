@@ -1,28 +1,30 @@
-### Hi there, I'm Aman 👋
-### I'm a game developer. I completed my graduation in CS major from Delhi University. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and leverage them to solve problems.
+### G'day! 👋
+### I'm [Aman Verma](https://drive.google.com/file/d/1Rh195otWZTKvbSSptQpoTWPYtKRxQLUE/view?usp=drive_link), a developer and passionate learner with a keen interest in working across various technologies. I enjoy combining technical expertise with a keen eye for aesthetics to create visually appealing products.
 
 ---
+### Languages and Tools
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge)
+![Java Core](https://img.shields.io/badge/Java_Core-%2300599C.svg?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-%2300599C.svg?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-%2300599C.svg?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-%2300599C.svg?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-%2300599C.svg?style=for-the-badge)
 
-<!---<img align="center" width="1280px" src="https://neocha-content.oss-cn-hongkong.aliyuncs.com/wp-content/uploads/sites/2/2016/11/1041uuu-feature.gif?width=1920" style="padding-right:10px;" />
+![React](https://img.shields.io/badge/React-%23316131.svg?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-%23316131.svg?style=for-the-badge)
+![Pygame](https://img.shields.io/badge/Pygame-%23316131.svg?style=for-the-badge)
+![SFML](https://img.shields.io/badge/SFML-%23316131.svg?style=for-the-badge)
+![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-%23316131.svg?style=for-the-badge)
 
---- --->
-
-## Connect with me:
-[![website](./img/globe-light.svg)](https://amanesque.github.io/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://amanesque.github.io/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/aman-verma-7b36941a0#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/aman-verma-7b36941a0/#gh-dark-mode-only)
-&nbsp;&nbsp;
-
-## Languages and Tools:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-&nbsp;&nbsp;
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-&nbsp;&nbsp;
+### Talk to me about
+- Web Technologies
+- Video games and game engines
+- Pixel Art
 
 ---
-
-## 💬 Talk to me about
-- Programming
-- Game Engines
+### Connect with me
+[![LinkedIn Aman Verma](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/aman-vrma)
+&nbsp;&nbsp;
+[![GitHub thebenzo](https://img.shields.io/github/followers/thebenzo?label=follow&style=social)](https://github.com/thebenzo)
+&nbsp;&nbsp;
+[![Portfolio Site](https://img.shields.io/badge/thebenzo.github.io-white?style=flat)](https://thebenzo.github.io)
